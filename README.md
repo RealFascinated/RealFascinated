@@ -1,5 +1,3 @@
-### Hi there
-
 # What I need
 when u gonna hire me then?!?!
 
