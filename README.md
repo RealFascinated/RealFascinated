@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Liam</h1>
-<h3 align="center">I have been coding for 4 years and have been mainly coding in JS/TS. I have most expierence in backend work.</h3>
+<h3 align="center">I have been coding for 4 years and have been mainly coding in JS/TS. I have most experience in backend work.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=realfascinated&label=Profile%20views&color=0e75b6&style=flat" alt="realfascinated" /> </p>
   
 ## Socials
