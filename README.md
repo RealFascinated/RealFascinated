@@ -7,4 +7,4 @@ Discord: Fascinated#4719
 
 ## Stats
 [![realfascinated's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=realfascinated&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</br>
-[![realfascinated's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fascinated&api_domain=wakatime.fascinated.cc&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![realfascinated's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fascinated&api_domain=wakatime.fascinated.cc&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff)](https://wakatime.fascinated.cc)
