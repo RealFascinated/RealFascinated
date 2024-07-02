@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Liam</h1>
-<h3 align="center">I have been coding for 4 years and have been mainly coding in JS/TS. I have most experience in backend work.</h3>
+<h3 align="center">I have been coding for 6 years and have been mainly coding in JS/TS & Java. I have most experience in backend work.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=realfascinated&label=Profile%20views&color=0e75b6&style=flat" alt="realfascinated" /> <img src="https://img.shields.io/endpoint?url=https://wakatime.fascinated.cc/api/compat/shields/v1/Fascinated/interval:30_days&label=Coding%20last%2030d" alt="realfascinated" /> </p>
 <p>https://s.fascinated.cc/s/bat</p>
 <p>https://s.fascinated.cc/s/git-gitea</p>
