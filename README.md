@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Liam</h1>
-<h3 align="center">I'm a 20-year-old software engineer from the UK, and my true passion lies in creating and exploring the endless possibilities within my homelab.</h3>
+<h3 align="center">I'm a software engineer from the UK, and my true passion lies in creating and exploring the endless possibilities within my homelab.</h3>
 <p align="center"> <img src="https://img.shields.io/endpoint?url=https://wakatime.fascinated.cc/api/compat/shields/v1/Fascinated/interval:30_days&label=Coding%20last%2030d" alt="realfascinated" /> </p>
 
 ## Socials
