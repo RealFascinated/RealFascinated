@@ -8,4 +8,4 @@ Discord: `fascinated7`
 
 ## Statistics
 
-[![realfascinated's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fascinated&api_domain=wakatime.fascinated.cc&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Coding%20Stats%20(This%20Week)&layout=compact)](https://wakatime.fascinated.cc)
+[![realfascinated's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fascinated&api_domain=wakatime.fascinated.cc&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Development+Stats+%28Last+30+Days%29&layout=compact)](https://wakatime.fascinated.cc)
